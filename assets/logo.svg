@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 120 120" preserveAspectRatio="xMidYMid meet">
+  <path fill="#FFF" stroke="#FFF" stroke-width="3" d="M4 96 V30 L50 75 L96 30 V96 Z"></path>
+  <polygon fill="#A0E" stroke="#A0E" stroke-width="4" points="25,65 50,9 75,65 50,90"></polygon>
+</svg>
