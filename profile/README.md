@@ -1,10 +1,4 @@
 # A Stage Reborn™
-**Making Arts More Accessible**
-
-![A Stage Reborn Logo](/assets/logo.png)
-
----
-
 ## Making Arts More Accessible
 Our mission at A Stage Reborn™ is making arts more accessible. 
 
@@ -31,8 +25,6 @@ on June 23, 2017. We're incorporated in Nebraska and Washington states.
 | EIN         | SAM/UEI           | DUNS         | WA Business | NE Business |
 |-------------|-------------------|--------------|-------------|-------------|
 | 82-2040383  | EC1JXYHNAGL5      | 108599543    | 604137570   | 2405125530  |
-
----
 
 ## How to Support Us
 We welcome contributions, both in terms of creative input and financial 
