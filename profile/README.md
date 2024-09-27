@@ -22,9 +22,9 @@ on June 23, 2017. We're incorporated in Nebraska and Washington states.
 
 ## Company Detail
 
-| EIN         | SAM/UEI           | DUNS         | WA Business | NE Business |
-|-------------|-------------------|--------------|-------------|-------------|
-| 82-2040383  | EC1JXYHNAGL5      | 108599543    | 604137570   | 2405125530  |
+| EIN        | SAM/UEI      | DUNS      | WA Business | NE Business |
+|------------|--------------|-----------|-------------|-------------|
+| 82-2040383 | EC1JXYHNAGL5 | 108599543 | 604137570   | 2405125530  |
 
 ## How to Support Us
 We welcome contributions, both in terms of creative input and financial 
