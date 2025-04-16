@@ -32,4 +32,7 @@ support. If you'd like to make a donation or get involved, visit our
 [donation page](https://www.paypal.com/us/fundraiser/charity/2456458) or reach out via 
 email.
 
+We are also running an official crowdfunding campaign on GivETH.io here:
+https://giveth.io/project/a-stage-reborn-is-building-a-citys-creative-district
+
 Give a ⭐️ if you support our mission!
