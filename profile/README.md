@@ -22,10 +22,10 @@ on June 23, 2017. We're incorporated in Nebraska and Washington states.
 
 ## Company Detail
 
-| EIN        | SAM/UEI      | DUNS      | WA Business | NE Business |
-|------------|--------------|-----------|-------------|-------------|
-| 82-2040383 | EC1JXYHNAGL5 | 108599543 | 604137570   | 2405125530  |
-| Gnosis Safe Vault | 0xbf9cBE3adf9B005fA679eA63dBa2d500Ba9F9565    |
+| EIN        | SAM/UEI      | DUNS      | WA Business | NE Business | Gnosis Safe Vault |
+|------------|--------------|-----------|-------------|-------------|-------------------|
+| 82-2040383 | EC1JXYHNAGL5 | 108599543 | 604137570   | 2405125530  | 0xbf9cBE3adf9B005fA679eA63dBa2d500Ba9F9565 |
+
 
 ## How to Support Us
 We welcome contributions, both in terms of creative input and financial 
